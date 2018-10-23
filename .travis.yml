@@ -3,12 +3,6 @@ language: node_js
 node_js:
 - node
 
-before_script:
-- yarn install
-
-script:
-- yarn test
-
 deploy:
   skip_cleanup: true
   provider: npm
