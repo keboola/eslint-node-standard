@@ -10,7 +10,7 @@ Keboola Node.js coding standard
 ```json
 {
     "plugins": [
-        "keboola-node"
+        "@keboola/node"
     ]
 }
 ```
