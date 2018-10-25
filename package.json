@@ -1,0 +1,25 @@
+{
+  "name": "@keboola/eslint-config-node",
+  "version": "1.0.0",
+  "repository": "https://github.com/keboola/eslint-config-node",
+  "description": "Keboola Node.js coding standard",
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "keboola"
+  ],
+  "author": "Jakub Matejka <jakub@keboola.com>",
+  "main": "index.js",
+  "license": "ISC",
+  "dependencies": {
+    "eslint-config-airbnb-base": "^13.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.4.0",
+    "eslint-plugin-import": "^2.14.0"
+  },
+  "peerDependencies": {
+    "eslint": "^5.4.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
