@@ -16,10 +16,14 @@
   },
   "devDependencies": {
     "eslint": "^5.4.0",
-    "eslint-plugin-import": "^2.14.0"
+    "eslint-plugin-import": "^2.14.0",
+    "jest": "^23.6.0"
   },
   "peerDependencies": {
     "eslint": "^5.4.0",
     "eslint-plugin-import": "^2.14.0"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/jest --bail"
   }
 }
