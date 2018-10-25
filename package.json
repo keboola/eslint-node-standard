@@ -11,6 +11,9 @@
   "author": "Jakub Matejka <jakub@keboola.com>",
   "main": "index.js",
   "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "eslint-config-airbnb-base": "^13.1.0"
   },
