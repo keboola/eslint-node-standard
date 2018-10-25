@@ -1,6 +1,6 @@
 {
   "name": "@keboola/eslint-config-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": "https://github.com/keboola/eslint-config-node",
   "description": "Keboola Node.js coding standard",
   "keywords": [
