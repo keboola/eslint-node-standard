@@ -5,11 +5,11 @@ Keboola Node.js coding standard
 ## Usage
 
 1. Install: `yarn add --dev eslint eslint-plugin-import @keboola/eslint-config-node`
-2. Add `keboola-node` to the plugins section of your `.eslintrc.json` configuration file.:
+2. Add `@keboola/node` to the plugins section of your `.eslintrc.json` configuration file.:
 
 ```json
 {
-    "plugins": [
+    "extends": [
         "@keboola/node"
     ]
 }
