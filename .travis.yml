@@ -16,5 +16,4 @@ deploy:
   api_key: $NPM_TOKEN
   on:
     tags: true
-    repo: keboola/eslint-config-node
     branch: master
