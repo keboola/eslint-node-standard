@@ -26,3 +26,7 @@ The standard extends [AirBnB coding standard](https://github.com/airbnb/javascri
 - `comma-dangle`. Trailing commas are required everywhere except for function declarations and function calls.
 
 - `import/no-extraneous-dependencies` is disabled because `aws-sdk` module is preinstalled in Lambda environment and so it does not have to be specified in dependencies.
+
+## License
+
+MIT licensed, see [LICENSE](./LICENSE) file.
